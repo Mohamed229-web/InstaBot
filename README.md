@@ -8,7 +8,7 @@ This instagram bot was made using `instapy`library
 
 1- Clone the repo
   ```
-  $ git clone https://github.com/martialo12/InstaBot.git
+  $ git clone https://github.com/mohamed229Web/InstaBot.git
   $ cd InstaBot
   ```
 
@@ -39,10 +39,4 @@ This instagram bot was made using `instapy`library
 - like target post
 - comment target post
 - follow/unfollow target people
-
-<br />
-
-## Support
-
-For issues and features request, please feel free to reach me at this address: **martialo218@gmail.com**
 <br />
